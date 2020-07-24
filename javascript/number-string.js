@@ -1,0 +1,13 @@
+var age =17;
+var count=17;
+count=16;
+var sum=5+6;
+var a=2;
+var b=3;
+var c=a+b;
+console.log(age);
+console.log(count);
+console.log(sum);
+console.log(a);
+console.log(b);
+console.log(c);
