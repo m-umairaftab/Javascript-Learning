@@ -1,0 +1,12 @@
+var age=17;
+var age1=17;
+var $age=17;
+var _age=17;
+var firstname=17;
+var my$word="Hello";
+console.log(age);
+console.log(age1);
+console.log($age);
+console.log(_age);
+console.log(firstname);
+console.log(my$word);
