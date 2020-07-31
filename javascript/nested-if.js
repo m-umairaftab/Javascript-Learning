@@ -22,19 +22,19 @@ else if (score >= 70)
 }
 else if (score >= 60)
 {
-    console.log("Grade =B")
+    console.log("Grade =B+")
 }
 else if (score >= 50)
 {
-    console.log("Grade =C")
+    console.log("Grade =B")
 }
 else if (score >= 40)
 {
-    console.log("Grade =D")
+    console.log("Grade =C")
 }
 else if (score >= 33)
 {
-    console.log("Grade =E")
+    console.log("Grade =D")
 }
 else 
 {
