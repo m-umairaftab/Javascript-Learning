@@ -1,6 +1,6 @@
 var score=prompt("what is your score")
 score=Number(score)
-if (score >= 80)
+if (score > 80)
 {
     console.log("Grade =A+")
     if(score >= 90)
