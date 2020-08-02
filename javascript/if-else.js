@@ -1,9 +1,9 @@
 var age=50
 if(age > 60)
 {
-    console.log("in if age"+age)
+    console.log("in if age" + age)
 }
 else
 {
-    console.log("in else age"+age)
+    console.log("in else age" + age)
 }
