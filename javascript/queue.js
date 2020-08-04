@@ -1,0 +1,12 @@
+var foods=[]
+foods.push("pizza")
+foods.push("sandwich")
+foods.push("snacks")
+console.log(foods)
+console.log("Length ="+foods.length)
+var a1=foods.shift()
+var a2=foods.shift()
+console.log(foods)
+console.log("Length ="+foods.length)
+console.log(a1)
+console.log(a2)
