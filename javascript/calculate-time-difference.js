@@ -1,0 +1,10 @@
+var date1=new Date("july 14 2019 11:12:15")
+var date2=new Date("july 17 2019 11:12:15")
+console.log("Date1 = ",date1)
+console.log("Date2 = ",date2)
+var timeDiff=date2.getTime()-date1.getTime()
+console.log("Time Difference = ",timeDiff)
+var timeInDay=24*60*60*1000
+console.log("timeInDay = ",timeInDay)
+var daysDiff=timeDiff/timeInDay
+console.log("daysDiff = ",daysDiff)
