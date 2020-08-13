@@ -5,4 +5,4 @@ function test(val){
     console.log("VAl After = "+val)
 }
 test(a)
-console.log("A after = "+a)
+console.log(`A after = ${a}`)
