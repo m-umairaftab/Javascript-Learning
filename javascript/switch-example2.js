@@ -1,10 +1,3 @@
-var input = "";
-process.stdin.on('data', function (data) {
-    input = data;
-    switchDemo();
-});
-function readLine() { return input; }
-/**** Ignore above this line. ****/
 
 function switchDemo() {
     var n = parseInt(readLine());
