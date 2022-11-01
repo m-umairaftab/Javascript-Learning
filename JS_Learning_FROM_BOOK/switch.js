@@ -16,6 +16,7 @@ switch(activity) {
         console.log("It is 5:00PM");
         break;
     case "Dinner":
+        
         console.log("It is 6:30PM");
         break;
 }
