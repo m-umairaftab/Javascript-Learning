@@ -1,5 +1,5 @@
 const prompt = require('prompt-sync')()
-let age = prompt('Enter your age : ')
+const age = prompt('Enter your age : ')
 let cost = 0
 let message
 if (age < 3) {
@@ -7,8 +7,8 @@ if (age < 3) {
     message = "Access is free under three."
 }
 else if (age >= 3 && age < 12) {
-cost = 5
-message ="With the child discount, the fee is 5 dollars"
+    cost = 5
+    message ="With the child discount, the fee is 5 dollars"
 } else if (age >= 12 && age < 65) {
     cost = 10
     message ="A regular ticket costs 10 dollars."
