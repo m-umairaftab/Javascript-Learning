@@ -19,7 +19,7 @@ else if ((playerRandomNumber === 1) && (computerRandomNumber === 2)){
     console.log('Player wins!')
 }
 else if ((playerRandomNumber === 2) && (computerRandomNumber === 1)){
-    console.log('Paper will not beat out Scissor.')
+    console.log('Paper will not beat out Scissor.') 
     console.log('Computer wins!')
 }
 else if ((playerRandomNumber === 2) && (computerRandomNumber === 0)){
