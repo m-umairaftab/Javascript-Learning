@@ -58,7 +58,7 @@ const user = {
 //     console.log('not defined');
 // }
 
-// console.log(user.address?.city?.name);
-const abc = 0
-const ab = Boolean(abc)
-console.log(ab);
+console.log(user.address?.city?.name);
+// const abc = 0
+// const ab = Boolean(abc)
+// console.log(ab);
